@@ -1,3 +1,5 @@
 apple button is going to add and another volume button is added
 
 now camera added and now to operate camera , we have added button
+
+fan mode is also added
