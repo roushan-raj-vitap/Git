@@ -1,2 +1,2 @@
-here is new line
+this is new line for master
 here is updated code
